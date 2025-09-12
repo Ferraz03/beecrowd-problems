@@ -12,7 +12,6 @@ public class Main {
 
         System.out.printf("MEDIA = %.1f%n" , MEDIA);
 
-
         sc.close();
     }
 }

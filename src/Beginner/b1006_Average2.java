@@ -11,7 +11,7 @@ public class b1006_Average2 {
         double C = sc.nextDouble();
         double MEDIA = (A * 2 + B * 3 + C * 5) / (2 + 3 + 5);
 
-        System.out.printf("MEDIA = %.1f%n" , MEDIA);
+        System.out.printf("MEDIA = %.1f" , MEDIA);
 
         sc.close();
     }
