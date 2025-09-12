@@ -1,8 +1,9 @@
-import java.io.IOException;
+package Beginner;
+
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) throws IOException {
+public class b1006_Average2 {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         double A = sc.nextDouble();

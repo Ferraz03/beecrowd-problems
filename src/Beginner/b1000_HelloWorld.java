@@ -1,6 +1,6 @@
 package Beginner;
 
-public class b1001_HelloWorld {
+public class b1000_HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!!");
 
