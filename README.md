@@ -1,9 +1,3 @@
-Boa, assim o repositório fica limpo no início e você vai expandindo depois.
-
-Aqui está a versão ajustada do **README.md** só com a primeira categoria (**Beginner**), mas com a observação de que as outras podem ser adicionadas futuramente:
-
----
-
 # 🚀 Beecrowd Problems – Java Solutions
 
 Este repositório contém minhas soluções para os desafios do [Beecrowd (https://judge.beecrowd.com/pt/login)], todas implementadas em **Java**.
@@ -24,10 +18,9 @@ Atualmente, o repositório contém apenas a categoria **Beginner**, destinada a 
  ┣ 📄 .gitignore
  ┗ 📄 beecrowd-problems.iml
 ```
-Cada pacote segue a divisão de categorias já estabelecidas no Beecrowd.
-Os arquivos seguem o padrão:
 
-b1001_HelloWorld.java → primeira letra do pacote + número do problema + nome do problema
+**Os arquivos seguem o padrão:**
+  b1001_HelloWorld.java → primeira letra do pacote + número do problema + nome do problema
 
 📌 **Obs.:** Outras categorias do Beecrowd (*Ad-Hoc, Strings, Data Structures, Mathematics, Paradigms, Graph, Computational Geometry e SQL*) poderão ser adicionadas no futuro.
 
@@ -84,7 +77,6 @@ public class b1001_HelloWorld {
 
 ---
 
-✨ **Autor:** Breno Ferraz
+✨ **Autor:** @Ferraz03
 
----
 
