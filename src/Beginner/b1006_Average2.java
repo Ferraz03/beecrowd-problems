@@ -6,12 +6,19 @@ public class b1006_Average2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double A = sc.nextDouble();
-        double B = sc.nextDouble();
-        double C = sc.nextDouble();
-        double MEDIA = (A * 2 + B * 3 + C * 5) / (2 + 3 + 5);
+        double notaA = sc.nextDouble();
+        double notaB = sc.nextDouble();
+        double notaC = sc.nextDouble();
 
-        System.out.printf("MEDIA = %.1f" , MEDIA);
+        int pesoA = 2;
+        int pesoB = 3;
+        int pesoC = 5;
+
+        int somaPesos = pesoA + pesoB + pesoC;
+
+        double MEDIA = (notaA * pesoA + notaB * pesoB + notaC * pesoC) / (somaPesos);
+
+        System.out.printf("MEDIA = %.1f", MEDIA);
 
         sc.close();
     }
